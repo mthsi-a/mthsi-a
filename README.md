@@ -2,7 +2,7 @@
 
 **`Dev em Construção`**
 
-Me chamo Matheus de Arruda Silva, tenho 19 anos e sou de Corumbá MS. Concluí o ensino médio em 2024 na escola SESI, com o curso técnico em informática (Senai) para internet. Atualmente, estou cursando Sistema de Informação na UFMS e técnico em eletrotécnica também no Senai. Sou totalmente interessado pela área de tecnologia da informação e pretendo desenvolver mais e mais minhas habilidades em programação".
+Me chamo Matheus de Arruda Silva, tenho 19 anos e sou de Corumbá MS. Concluí o ensino médio em 2024 na escola SESI, com o curso técnico em informática (Senai) para internet. Atualmente, estou cursando Sistema de Informação na UFMS e técnico em eletrotécnica também no Senai. Sou totalmente interessado pela área de tecnologia da informação e pretendo desenvolver mais e mais minhas habilidades e meu conhecimento em programação".
 
 <p align="left"> 
     </a>
