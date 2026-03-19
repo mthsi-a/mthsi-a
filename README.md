@@ -1,7 +1,7 @@
 # ⭐ Matheus Arruda
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="#">
     <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvimento%20Web%20e%20Apps;Em%20Constante%20Evolução!;&font=Fira%20Code&center=true&width=420&height=35&color=00BFFF&vCenter=true&pause=1000&size=20" /></a>
 </p>
 
