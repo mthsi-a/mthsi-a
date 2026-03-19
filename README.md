@@ -33,7 +33,7 @@ Me chamo Matheus de Arruda Silva, tenho 19 anos e sou de Corumbá MS. Concluí o
 
 ---
 
-**🌪 Meus Hobbies** 
+### **🌪 Meus Hobbies** 
 
 > 🏀 Paixão por Basquete
  > 
@@ -59,7 +59,7 @@ Me chamo Matheus de Arruda Silva, tenho 19 anos e sou de Corumbá MS. Concluí o
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -67,7 +67,7 @@ Me chamo Matheus de Arruda Silva, tenho 19 anos e sou de Corumbá MS. Concluí o
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
@@ -75,15 +75,15 @@ Me chamo Matheus de Arruda Silva, tenho 19 anos e sou de Corumbá MS. Concluí o
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
+    alt="MySQL" 
+    title="MySQL"
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
@@ -92,20 +92,17 @@ Me chamo Matheus de Arruda Silva, tenho 19 anos e sou de Corumbá MS. Concluí o
 <br/>
 
 ---
-<!--
-<h1>  📫 Entre em Contato!
-<br>
-<br>
-<p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+### 📫 Entre em Contato!
+
+<p align="Left">
+  <a href="https://www.youtube.com/c/DevProTips"><img width="30px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="30px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://twitter.com/DenverCoder1"><img width="30px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-</h1>
--->
+
 <p>
   <img 
     align="left" 
