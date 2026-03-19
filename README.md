@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvimento%20Web%20e%20Apps;Em%20Constante%20Evolução!;&font=Fira%20Code&center=true&width=420&height=35&color=00BFFF&vCenter=true&pause=1000&size=20" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvimento%20Web%20e%20Apps;Em%20Constante%20Evolução!;&font=Fira%20Code&center=true&width=420&height=40&color=00BFFF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 Me chamo Matheus de Arruda Silva, tenho 19 anos e sou de Corumbá MS. Concluí o ensino médio em 2024 na escola SESI, com o curso técnico em informática (Senai) para internet. Atualmente, estou cursando Sistema de Informação na UFMS e técnico em eletrotécnica também no Senai. Sou totalmente interessado pela área de tecnologia da informação e pretendo desenvolver mais e mais minhas habilidades em programação".
