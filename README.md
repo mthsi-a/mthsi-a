@@ -1,8 +1,12 @@
 # ⭐ Matheus Arruda
 
-**`Dev em Construção`**
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvimento%20Web%20e%20Apps;Em%20Constante%20Evolução!;&font=Fira%20Code&center=true&width=420&height=35&color=00BFFF&vCenter=true&pause=1000&size=20" /></a>
+</p>
 
-Me chamo Matheus de Arruda Silva, tenho 19 anos e sou de Corumbá MS. Concluí o ensino médio em 2024 na escola SESI, com o curso técnico em informática (Senai) para internet. Atualmente, estou cursando Sistema de Informação na UFMS e técnico em eletrotécnica também no Senai. Sou totalmente interessado pela área de tecnologia da informação e pretendo desenvolver mais e mais minhas habilidades e meu conhecimento em programação".
+Me chamo Matheus de Arruda Silva, tenho 19 anos e sou de Corumbá MS. Concluí o ensino médio em 2024 na escola SESI, com o curso técnico em informática (Senai) para internet. Atualmente, estou cursando Sistema de Informação na UFMS e técnico em eletrotécnica também no Senai. Sou totalmente interessado pela área de tecnologia da informação e pretendo desenvolver mais e mais minhas habilidades em programação".
 
 <p align="left"> 
     </a>
@@ -30,7 +34,19 @@ Me chamo Matheus de Arruda Silva, tenho 19 anos e sou de Corumbá MS. Concluí o
 
 ---
 
-### 👾 Linguagens e Tecnologias
+**🌪 Meus Hobbies** 
+
+> 🏀 Paixão por Basquete
+ > 
+> 🎮 Fascinado por Jogos
+ > 
+> 🎭 Interesses por Filmes e séries
+ > 
+> 🎶 Viciado em Músicas 
+ >
+---
+
+### **👾 Linguagens e Tecnologias** 
 
 <img 
     align="left" 
@@ -76,22 +92,37 @@ Me chamo Matheus de Arruda Silva, tenho 19 anos e sou de Corumbá MS. Concluí o
 <br/>
 <br/>
 
-### 📈 Estatísticas
-
+---
+<!--
+<h1>  📫 Entre em Contato!
+<br>
+<br>
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+</h1>
+-->
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="200"
+    width= "450" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mthsi-a&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=mthsi-a&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthsi-a&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="200"
+      width= "450" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mthsi-a&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" 
   />
 
 </p>
